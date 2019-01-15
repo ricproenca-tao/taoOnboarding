@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoOnboarding_main" name="taoOnboarding" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoOnboarding_main" name="taoOnboarding" url="/taoOnboarding/TaoOnboarding/index" />
+			<section id="taoOnboarding_other" name="Template" url="/taoOnboarding/TaoOnboarding/templateExample" />
+		</sections>
+	</structure>
+</structures>
